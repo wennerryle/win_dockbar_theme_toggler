@@ -7,5 +7,5 @@
 
 See also [WinDayNight](https://github.com/WalterPlinge/windaynight)
 
-* *Windows is Miscrosoft Trademark
+* *Windows is Microsoft Trademark
 * This project is provided for educational purposes only. It is not affiliated with and has not been approved by Microsoft.
